@@ -2,7 +2,7 @@ okay we are HERE
 ### setting up
 so go to [nodejs.org](https://nodejs.org/en/) and download the latest version of node.js or i mean open.js
 ### steps
-1 now go to your desktop
+1 now go to your desktop<br />
 2 open cmd
 3 type `mkdir test` 
 note: skip step 4 if you wanna follow this tutroial completly
